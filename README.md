@@ -25,14 +25,28 @@ Trivial is a secure Android application developed using Jetpack Compose and Mate
 
 📸 Screenshots
 
+![Picture1](https://github.com/user-attachments/assets/8958b0c7-68a5-40a2-ab5e-63a09333cc64)
 
-![Picture1](https://github.com/user-attac![Picture2](https://github.com/user-attachments/assets/261bb7fc-63f8-4543-af4f-c3f7a450016f)
-hments/assets/95e29ff5-c596-43a0-b8f4-0ed83be4faba)
+
+![Picture2](https://github.com/user-attachments/assets/a955601f-04d9-4699-a9a9-2f858e9463ce)
+
+
+
 ![Picture3](https://github.com/user-attachments/assets/a52a26f8-599a-4259-a303-d82230206df9)
+
+
 ![Picture4](https://github.com/user-attachments/assets/0a409332-40c5-48a4-bec8-163573af6762)
+
+
 ![Picture5](https://github.com/user-attachments/assets/626d0377-1484-4e7b-a084-dd4529ebdb6d)
+
+
 ![Picture6](https://github.com/user-attachments/assets/fb28c461-8c3e-4eea-899f-dcc5c8942d83)
+
+
 ![Picture7](https://github.com/user-attachments/assets/d7fce479-ce5f-42e7-8719-a283dea70b67)
+
+
 ![Picture8](https://github.com/user-attachments/assets/167dad15-4e2e-41c1-8643-295ec5cecc74)
 
 
